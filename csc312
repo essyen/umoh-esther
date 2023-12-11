@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    char first = "m";
+    char second = "a";
+    char third = "m";
+    char palindrome = (first, second, third);
+    printf(palindrome);
+    return 0;
+}
